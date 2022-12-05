@@ -1,6 +1,6 @@
 {
   "jwtPrivateKey": "unsecureKey",
-  "db": "localhost:27017",
-  "port": "27017",
+  "db": "mongodb://127.0.0.1/backend-kelas",
+  "port": "3900",
   "requiresAuth": false
 }

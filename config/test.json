@@ -1,4 +1,4 @@
 {
   "jwtPrivateKey": "1234",
-  "db": "mongodb://localhost/db_rajif"
+  "db": "mongodb://127.0.0.1/backend-kelas"
 }
